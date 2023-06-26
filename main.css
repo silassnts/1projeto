@@ -71,10 +71,39 @@
 
 .cont2 {
     background-color: #4a4e6d;
+    padding: 100px;
+    height: 660px;
+}
+
+.txtme {
+    width: 55%;
+    height: 120px;
+    background-color: #323655;
     color: white;
     text-align: center;
     font-family: 'Roboto Slab', serif;
-    font-size: 87px;
-    padding: 150px;
-    height: 660px;
+    font-size: 40px;
+    margin-top: 5%;
+    padding-top: 40px;
+    margin-right: 0;
+    float: left;
+
+}
+
+.me {
+    color: white;
+    background-color: #323655;
+    font-size: 20px;
+    float: left;
+    width: 55%;
+    height: 240px;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    margin-top: 0%;
+    word-spacing: 07px;
+}
+
+.mefoto {
+    text-align: center;
+    margin: 102px 0px 0px 65%;
 }
