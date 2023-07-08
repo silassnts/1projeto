@@ -18,7 +18,10 @@
     font-size: medium;
     font-family: 'Noto Sans', sans-serif;
     position: fixed;
+    text-decoration: none;
 }
+
+
 
 .esquerda {
 
@@ -36,6 +39,7 @@
 }
 
 .cont1 {
+    width: 100%;
     background-color: #696e94;
     color: white;
     text-align: center;
@@ -43,6 +47,10 @@
     font-size: 100px;
     padding: 150px;
     height: 720px;
+}
+
+.imghtml {
+    margin-right: 40px;
 }
 
 .sub1 {
@@ -73,6 +81,7 @@
     background-color: #4a4e6d;
     padding: 100px;
     height: 660px;
+    width: 100%;
 }
 
 .txtme {
@@ -87,6 +96,7 @@
     padding-top: 40px;
     margin-right: 0;
     float: left;
+    border-top: #323655;
 
 }
 
@@ -106,4 +116,84 @@
 .mefoto {
     text-align: center;
     margin: 102px 0px 0px 65%;
+}
+
+.cont3 {
+    background-color: #696e94;
+    color: white;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    height: 660px;
+    width: 100%;
+    font-size: 40px;
+    padding-top: 2%;
+}
+
+.projetos {
+    width: 51%;
+    height: 400px;
+    text-align: center;
+    margin-top: 06%;
+    margin-left: 25%;
+    word-spacing: 70px;
+}
+
+.img1 {
+    padding: 0%;
+    transition: transform .4s ease-in;
+}
+
+.img1:hover {
+    transform: scale(1.1);
+}
+
+.img2 {
+    padding: 0%;
+    transition: transform .4s ease-in;
+}
+
+.img2:hover {
+    transform: scale(1.1);
+}
+
+.img3 {
+    padding: 0%;
+    transition: transform .4s ease-in;
+}
+
+.img3:hover {
+    transform: scale(1.1);
+}
+
+.img4 {
+    padding: 0%;
+    transition: transform .4s ease-in;
+}
+
+.img4:hover {
+    transform: scale(1.1);
+}
+
+.img5 {
+    padding: 0%;
+    transition: transform .4s ease-in;
+}
+
+.img5:hover {
+    transform: scale(1.1);
+}
+
+.img6 {
+    padding: 0%;
+    transition: transform .4s ease-in;
+}
+
+.img6:hover {
+    transform: scale(1.1);
+}
+
+.cont4 {
+    background-color: #303452;
+    height: 15px;
+    width: 100%;
 }
